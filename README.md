@@ -174,5 +174,3 @@ Reservation
 - 404 → Product or reservation not found
 
 - 500 → Database or internal error
-# Inventory_Reservation_Service
-# Inventory_Reservation_Service
