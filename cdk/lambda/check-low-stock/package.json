@@ -1,0 +1,10 @@
+{
+  "name": "check-low-stock-lambda",
+  "version": "1.0.0",
+  "description": "Lambda function to check for low stock products",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
+ 
